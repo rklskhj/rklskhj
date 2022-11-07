@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://coriny-gjkim.tistory.com/" target="_blank">Blog<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a> 
+<a href="https://coriny-gjkim.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a> 
 
 <!--
 **rklskhj/rklskhj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
