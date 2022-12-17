@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HyeokJin Github!&fontSize=90" />
 
-# 안녕하세요👋 프론트엔드 개발자 김혁진입니다!
 <a href="https://coriny-gjkim.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>  <a href="https://www.instagram.com/hyukji_n/" target="_blank"><img src="https://img.shields.io/badge/hyukji_n-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>   
 
 ### 공부중인 stack
