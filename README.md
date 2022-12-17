@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/Positive-0071C5?style=for-the-badge&logo=Positive&logoColor=white"><img src="https://img.shields.io/badge/mind-white?style=for-the-badge&logo=mind&logoColor=blue"> **어떠한 문제도 해결할 수 있다는 긍정적인 마음가짐**   
 <img src="https://img.shields.io/badge/Positive-0071C5?style=for-the-badge&logo=Positive&logoColor=white"><img src="https://img.shields.io/badge/vibes-white?style=for-the-badge&logo=mind&logoColor=blue">   **함께하는 팀원들에겐 긍정적인 에너지**   
-<img src="https://img.shields.io/badge/Positive-0071C5?style=for-the-badge&logo=Positive&logoColor=white"><img src="https://img.shields.io/badge/life-white?style=for-the-badge&logo=mind&logoColor=blue">   **자신을 돌아볼 수 있는 긍정적인 삶**   
+<img src="https://img.shields.io/badge/Positive-0071C5?style=for-the-badge&logo=Positive&logoColor=white"><img src="https://img.shields.io/badge/life-white?style=for-the-badge&logo=mind&logoColor=blue">   **자신을 돌아보며 자기관리도 철저한**   
 ### 💾 Tech Stack 💾
 **💡 Platforms & Languages 💡**  
 **(& Studing...✍️)**
