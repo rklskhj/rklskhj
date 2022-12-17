@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HyeokJin Github!&fontSize=90" />
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=80ED99&height=200&section=header&text=HyeokJin%20Github!&fontSize=50" />	
+<div align="center"> <a href="https://ahahahangstudy.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=flat&logo=Tistory&logoColor=black"/></a></div>
 
 <a href="https://coriny-gjkim.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>  <a href="https://www.instagram.com/hyukji_n/" target="_blank"><img src="https://img.shields.io/badge/hyukji_n-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>   
 
