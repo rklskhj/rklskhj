@@ -24,7 +24,7 @@
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rklskhj&show_icons=true&theme=radical)
 	
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Now%20Use%20me!&fontSize=50)
 <!--
 **rklskhj/rklskhj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
