@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HyeokJin%20Github!&fontSize=50" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0071C5&height=200&section=header&text=HyeokJin%20Github!&fontSize=50" />	
 <div align="center"> 
 
 ## 어제보다 오늘 더 성장하는 FE 개발자 김혁진입니다.
@@ -24,7 +24,7 @@
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rklskhj&show_icons=true&theme=radical)
 	
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Now%20Use%20me!&fontSize=50)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0071C5&height=200&section=footer&text=Now%20Use%20me!&fontSize=50)
 <!--
 **rklskhj/rklskhj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
