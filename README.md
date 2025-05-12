@@ -1,41 +1,60 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0071C5&height=200&section=header&text=HyeokJin%20Github!&fontSize=50" />	
-<div align="center"> 
+<div align="center">
 
-## 어제보다 오늘 더 성장하는 FE 개발자 김혁진입니다.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header&text=Hello,%20I'm%20Noveloper&fontSize=28&animation=twinkling)
 
-<img src="https://img.shields.io/badge/Positive-0071C5?style=for-the-badge&logo=Positive&logoColor=white"><img src="https://img.shields.io/badge/mind-white?style=for-the-badge&logo=mind&logoColor=blue"> **어떠한 문제도 해결할 수 있다는 긍정적인 마음가짐**   
-<img src="https://img.shields.io/badge/Positive-0071C5?style=for-the-badge&logo=Positive&logoColor=white"><img src="https://img.shields.io/badge/vibes-white?style=for-the-badge&logo=mind&logoColor=blue">   **함께하는 팀원들에겐 긍정적인 에너지**   
-<img src="https://img.shields.io/badge/Positive-0071C5?style=for-the-badge&logo=Positive&logoColor=white"><img src="https://img.shields.io/badge/life-white?style=for-the-badge&logo=mind&logoColor=blue">   **자신을 돌아보며 자기관리도 철저한**   
-### 💾 Tech Stack 💾
-**💡 Platforms & Languages 💡**  
-**(& Studing...✍️)**
-
-	
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <br> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">  <img src="https://img.shields.io/badge/recoil-black?style=for-the-badge&logo=recoil&logoColor=white">  <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white"> <br> <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=black">  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
-<br>
-
-**🎨 SNS & Portfolio 🎨**
-<div align=center>
-	<a href="https://www.instagram.com/hyukji_n/" target="_blank"><img src="https://img.shields.io/badge/hyukji_n-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>  <a href="https://coriny-gjkim.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>  
-	<br>
 </div>
-<br>
-	
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rklskhj&show_icons=true&theme=radical)
-	
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0071C5&height=200&section=footer&text=Now%20Use%20me!&fontSize=50)
-<!--
-**rklskhj/rklskhj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Building creativity through code
+
+🎯 Front-end developer | I love learning and making technology fun to use.   
+🤖 Develop, document, and grow with AI tools.    
+🎵 I love singing too!  
+
+</div>
+
+---
+
+### 🔧 Tech Stack
+
+#### Main
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white)
+
+#### Libraries & Tools
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=Zustand&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-764ABC?style=flat&logo=Recoil&logoColor=white)
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+#### Experienced
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+---
+
+### 📘 Easy and fun tech stories
+
+- 🤖 [개발자의 LLM 활용, 치트키인가? 독인가?](https://coriny-gjkim.tistory.com/113)  
+- 🧐 [React를 사용하면 되는데 굳이 Next.js로 구현하는게 맞을까?](https://coriny-gjkim.tistory.com/110)
+  
+- 🎴 [카카오 자동 로그인, 타짜로 이해하기!](https://coriny-gjkim.tistory.com/90)  
+- 🧱 [FE! 너도 CORS 에러 해결할 수 있어..!](https://coriny-gjkim.tistory.com/88)  
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyeokJin&show_icons=true)
+
+</div>
